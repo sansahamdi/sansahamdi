@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sansahamdi
 - 👀 I’m interested in web/mobile development
-- 🌱 I’m currently learning React Native
 - 📫 You can reach me on : https://www.linkedin.com/in/hamdi-sansa/
 
 <!---
